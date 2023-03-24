@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alex Huaman Yana</h1>
-<h3 align="center">I am a Systems Engineering graduate with 2 years of experience in software development, mainly focused on frontend development. I am passionate about developing innovative and attractive technological solutions. For me, it is important to focus not only on the functionality of a product, but also on its design and usability.</h3>
+<h3 align="center">I am a Systems Engineering graduate with 3 years of experience in software development, mainly focused on frontend development. I am passionate about developing innovative and attractive technological solutions. For me, it is important to focus not only on the functionality of a product, but also on its design and usability.</h3>
 
 - 🌱 I’m currently learning **aws**
 
